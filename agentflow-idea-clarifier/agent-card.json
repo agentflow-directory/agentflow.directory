@@ -1,0 +1,72 @@
+{
+  "name": "AgentFlow Idea Clarifier",
+  "slug": "agentflow-idea-clarifier",
+  "version": "1.1.0",
+  "status": "draft",
+  "category": "Builder Tools",
+  "subcategory": "Custom GPT",
+  "summary": "Turns rough ideas into structured agent specs for ChatGPT and AgentFlow.Directory.",
+  "description": "AgentFlow Idea Clarifier helps users convert vague ideas into practical, no-code-friendly agent specifications. It is designed as an open-source starter example for AgentFlow.Directory and can be used as a Custom GPT in ChatGPT or forked from GitHub.",
+  "audience": [
+    "founders",
+    "indie makers",
+    "freelancers",
+    "small business owners",
+    "no-code creators"
+  ],
+  "tags": [
+    "no-code",
+    "open-source",
+    "custom-gpt",
+    "agent-design",
+    "builder-tools",
+    "productivity"
+  ],
+  "use_cases": [
+    "Define a new AI agent idea",
+    "Draft a Custom GPT concept",
+    "Create a reusable agent specification",
+    "Prepare a listing for AgentFlow.Directory",
+    "Package an idea for GitHub publishing"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-idea-clarifier",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-idea-clarifier",
+  "icon": "/assets/agents/agentflow-idea-clarifier/icon.png",
+  "cover_image": "/assets/agents/agentflow-idea-clarifier/cover.png",
+  "conversation_starters": [
+    "Help me define an agent for lead qualification.",
+    "Turn my rough business idea into a Custom GPT.",
+    "Create a no-code agent spec for content planning.",
+    "Draft an AgentFlow.Directory listing from my idea."
+  ],
+  "outputs": [
+    "agent name",
+    "one-line pitch",
+    "target user",
+    "jobs to be done",
+    "inputs and outputs",
+    "no-code MVP recommendation",
+    "directory listing draft"
+  ],
+  "limitations": [
+    "Does not deploy software by itself",
+    "Does not replace legal, compliance, or domain review",
+    "Best suited for ideation, structuring, and packaging"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2025-01-01"
+  }
+}
