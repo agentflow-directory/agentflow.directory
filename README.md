@@ -14,5 +14,7 @@ Find, use, and promote agents — no coding required.
 ## Ping us
 
 Mail: glory.to.mankind@agentflow.directory
+
 LinkedIn: https://www.linkedin.com/in/agentflow-directory-5734a33b9/
+
 Patreon: TBD
