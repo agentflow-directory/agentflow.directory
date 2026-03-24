@@ -1,4 +1,5 @@
 {
+  "featured": true,
   "name": "AgentFlow GTD Coach",
   "slug": "agentflow-gtd-coach",
   "version": "1.0.0",
