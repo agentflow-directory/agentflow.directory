@@ -1,0 +1,73 @@
+{
+  "name": "AgentFlow GTD Coach",
+  "slug": "agentflow-gtd-coach",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Productivity",
+  "subcategory": "Personal Organization",
+  "summary": "Helps users organize tasks, priorities, and commitments through a practical 21-day productivity reset.",
+  "description": "AgentFlow GTD Coach helps users reduce overwhelm and build a trusted personal organization system over 21 days. It guides them through capture, clarification, organization, review, and stabilization using a simple no-code workflow that works well inside ChatGPT.",
+  "audience": [
+    "busy professionals",
+    "founders",
+    "freelancers",
+    "students",
+    "indie makers"
+  ],
+  "tags": [
+    "productivity",
+    "gtd",
+    "task-management",
+    "planning",
+    "organization",
+    "no-code",
+    "custom-gpt",
+    "open-source"
+  ],
+  "use_cases": [
+    "Turn a messy to-do list into a trusted system",
+    "Follow a 21-day organization reset",
+    "Break projects into next actions",
+    "Run daily and weekly reviews",
+    "Reduce overwhelm with practical prioritization"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-gtd-coach",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-gtd-coach",
+  "icon": "/assets/agents/agentflow-gtd-coach/icon.png",
+  "cover_image": "/assets/agents/agentflow-gtd-coach/cover.png",
+  "conversation_starters": [
+    "Help me organize my life and work over the next 21 days.",
+    "Turn this messy task list into projects and next actions.",
+    "Give me a practical daily productivity reset plan.",
+    "Run a weekly review with me."
+  ],
+  "outputs": [
+    "21-day organization plan",
+    "categorized task list",
+    "projects and next actions",
+    "daily focus plan",
+    "weekly review checklist",
+    "productivity workflow"
+  ],
+  "limitations": [
+    "Does not sync with task apps or calendars by itself",
+    "Does not automatically execute tasks",
+    "Best suited for planning, structuring, and guided follow-through"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-24"
+  }
+}
