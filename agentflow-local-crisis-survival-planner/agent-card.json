@@ -1,0 +1,70 @@
+{
+  "name": "Local Crisis Survival Planner",
+  "slug": "local-crisis-survival-planner",
+  "version": "1.1.0",
+  "status": "ready",
+  "category": "Lifestyle",
+  "subcategory": "Safety & Preparedness",
+  "summary": "Location-aware survival checklist generator for blackouts, infrastructure disruptions, and emergency preparedness.",
+  "description": "Local Crisis Survival Planner helps individuals and households prepare for emergencies such as blackouts, infrastructure failures, and emerging risks. It generates clear, actionable checklists for water, food, medicine, and essential supplies while referencing trusted sources like FEMA and local government agencies. Designed for simplicity, it produces printable survival plans with no coding required.",
+  "audience": [
+    "households",
+    "families",
+    "individuals",
+    "urban residents",
+    "preparedness beginners"
+  ],
+  "tags": [
+    "emergency-preparedness",
+    "survival",
+    "checklists",
+    "no-code",
+    "safety",
+    "household"
+  ],
+  "use_cases": [
+    "Prepare for blackouts",
+    "Create emergency supply checklists",
+    "Generate printable survival plans",
+    "Plan water and food storage",
+    "Find trusted emergency resources"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "MIT",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/local-crisis-survival-planner",
+  "chatgpt_url": "https://chatgpt.com/g/[YOUR_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/local-crisis-survival-planner",
+  "conversation_starters": [
+    "Create a 3-day blackout survival plan for my household",
+    "Checklist for water, food, and medicine for 7 days",
+    "What should I do in the first 24 hours of a blackout?",
+    "Generate a printable emergency checklist",
+    "List official emergency resources for my location"
+  ],
+  "outputs": [
+    "survival checklist",
+    "water supply plan",
+    "food checklist",
+    "medicine kit list",
+    "action plan",
+    "resource list"
+  ],
+  "limitations": [
+    "No real-time alerts",
+    "Does not replace official emergency instructions",
+    "Requires user verification of local guidance"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-01"
+  }
+}
