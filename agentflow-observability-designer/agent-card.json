@@ -6,7 +6,7 @@
   "category": "AIOps",
   "subcategory": "Observability",
   "summary": "Designs actionable monitoring, SLI/SLO, and low-noise alerting for services and systems.",
-  "description": "agentflow-observability-designer helps users design practical observability strategies around service health, user journeys, telemetry quality, and alert actionability. It is aimed at teams that want useful monitoring without alert fatigue.",
+  "description": "AgentFlow Observability Designer helps users design practical observability strategies around service health, user journeys, telemetry quality, and alert actionability. It is aimed at teams that want useful monitoring without alert fatigue.",
   "audience": [
     "SREs",
     "DevOps engineers",

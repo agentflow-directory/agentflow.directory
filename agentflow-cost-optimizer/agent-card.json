@@ -6,7 +6,7 @@
   "category": "DevOps",
   "subcategory": "FinOps",
   "summary": "Finds practical cloud and infrastructure savings opportunities with risk-aware prioritization.",
-  "description": "agentflow-cost-optimizer helps users review infrastructure and platform setups for likely waste, overprovisioning, and safer savings opportunities. It frames cost optimization as a reliability-aware FinOps exercise rather than blind budget cutting.",
+  "description": "AgentFlow Cost Optimizer helps users review infrastructure and platform setups for likely waste, overprovisioning, and safer savings opportunities. It frames cost optimization as a reliability-aware FinOps exercise rather than blind budget cutting.",
   "audience": [
     "DevOps engineers",
     "platform teams",

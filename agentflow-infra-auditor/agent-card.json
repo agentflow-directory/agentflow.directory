@@ -6,7 +6,7 @@
   "category": "DevOps",
   "subcategory": "Infrastructure Review",
   "summary": "Reviews infrastructure setups for resilience, scalability, and production-readiness risks.",
-  "description": "agentflow-infra-auditor helps users review infrastructure architecture, configuration patterns, and operational risks. It highlights critical dependencies, anti-patterns, resilience gaps, and remediation priorities in a practical no-code workflow.",
+  "description": "AgentFlow Infra Auditor helps users review infrastructure architecture, configuration patterns, and operational risks. It highlights critical dependencies, anti-patterns, resilience gaps, and remediation priorities in a practical no-code workflow.",
   "audience": [
     "DevOps engineers",
     "platform teams",

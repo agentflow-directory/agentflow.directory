@@ -6,7 +6,7 @@
   "category": "DevOps",
   "subcategory": "Incident Response",
   "summary": "Helps teams coordinate incidents with structured response plans, updates, and timelines.",
-  "description": "agentflow-incident-commander helps users run production or security incidents with less chaos. It structures impact, severity, response actions, owners, timelines, and stakeholder updates in a no-code workflow suitable for ChatGPT and AgentFlow.Directory.",
+  "description": "AgentFlow Incident Commander helps users run production or security incidents with less chaos. It structures impact, severity, response actions, owners, timelines, and stakeholder updates in a no-code workflow suitable for ChatGPT and AgentFlow.Directory.",
   "audience": [
     "SREs",
     "DevOps engineers",

@@ -6,7 +6,7 @@
   "category": "SecOps",
   "subcategory": "Security Review",
   "summary": "Performs high-level security reviews with practical hardening guidance and prioritized risks.",
-  "description": "agentflow-security-auditor helps users review software, architecture, workflows, and repository context for common security weaknesses. It structures attack surface, likely risks, mitigations, and launch-readiness checks in a practical no-code workflow.",
+  "description": "AgentFlow Security Auditor helps users review software, architecture, workflows, and repository context for common security weaknesses. It structures attack surface, likely risks, mitigations, and launch-readiness checks in a practical no-code workflow.",
   "audience": [
     "security engineers",
     "DevOps teams",
