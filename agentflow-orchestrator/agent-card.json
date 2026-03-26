@@ -1,0 +1,73 @@
+{
+  "featured": true,
+  "name": "AgentFlow Orchestrator",
+  "slug": "agentflow-orchestrator",
+  "version": "0.1.0",
+  "status": "draft",
+  "category": "Developer Tools",
+  "subcategory": "Multi-Agent Orchestration",
+  "summary": "Meta-agent that classifies requests, routes them to the best specialist agent, and merges results into one final answer.",
+  "description": "AgentFlow Orchestrator is a no-code meta-agent for AgentFlow.Directory. It analyzes user intent, selects the most relevant specialist agent or multi-agent path, prepares handoff briefs, tracks assumptions and gaps, and synthesizes the final response. It can be used directly in chat, in IDE workflows, in Codex-style environments, or as the routing layer behind CI and backend automations.",
+  "audience": [
+    "builders of agent ecosystems",
+    "developers",
+    "technical operators",
+    "teams using multiple specialist agents",
+    "AI workflow designers"
+  ],
+  "tags": [
+    "agentflow",
+    "orchestrator",
+    "router",
+    "multi-agent",
+    "meta-agent",
+    "coordination",
+    "workflow"
+  ],
+  "use_cases": [
+    "Route a user request to the best specialist agent",
+    "Combine outputs from multiple agents into one answer",
+    "Act as a gateway agent in chat, IDE, or CI workflows",
+    "Provide fallback behavior when no specialist agent matches",
+    "Prepare structured handoff briefs for downstream agents"
+  ],
+  "execution_type": "prompt-only or tool-assisted",
+  "coding_level": "no-code",
+  "source_availability": "open-source",
+  "account_required": true,
+  "api_required": false,
+  "backend_required": false,
+  "setup_time_minutes": 10,
+  "license": "MIT",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow-orchestrator",
+  "chatgpt_url": "",
+  "demo_url": "",
+  "icon": "./icon.png",
+  "cover_image": "./cover.png",
+  "conversation_starters": [
+    "Route this task to the best agent: review my product brief and propose next steps.",
+    "I need a security review and a delivery plan for this repo context.",
+    "Choose the best agent for this task and explain why.",
+    "Break this request into sub-tasks and assign them to specialist agents.",
+    "Act as an orchestrator for a multi-agent workflow using the context below."
+  ],
+  "outputs": [
+    "selected agent or agent chain",
+    "routing rationale",
+    "handoff brief for each selected agent",
+    "synthesized final answer",
+    "identified gaps, risks, and next steps"
+  ],
+  "limitations": [
+    "Cannot execute real agent-to-agent calls inside standard ChatGPT without an external backend or tool layer",
+    "Quality depends on the clarity of the available specialist agent registry",
+    "May need manual review when multiple agents have overlapping scope",
+    "Does not replace domain expertise; it coordinates it"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}
