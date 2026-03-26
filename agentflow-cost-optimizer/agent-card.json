@@ -1,0 +1,73 @@
+{
+  "name": "agentflow-cost-optimizer",
+  "slug": "agentflow-cost-optimizer",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "DevOps",
+  "subcategory": "FinOps",
+  "summary": "Finds practical cloud and infrastructure savings opportunities with risk-aware prioritization.",
+  "description": "agentflow-cost-optimizer helps users review infrastructure and platform setups for likely waste, overprovisioning, and safer savings opportunities. It frames cost optimization as a reliability-aware FinOps exercise rather than blind budget cutting.",
+  "audience": [
+    "DevOps engineers",
+    "platform teams",
+    "engineering managers",
+    "technical founders",
+    "FinOps-minded operators"
+  ],
+  "tags": [
+    "finops",
+    "cost-optimization",
+    "cloud-cost",
+    "devops",
+    "platform-engineering",
+    "no-code",
+    "custom-gpt",
+    "open-source"
+  ],
+  "use_cases": [
+    "Review infra for cloud waste",
+    "Find overprovisioned resources",
+    "Create a safer savings plan",
+    "Build a cost hygiene checklist",
+    "Prioritize FinOps actions"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-cost-optimizer",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-cost-optimizer",
+  "icon": "/assets/agents/agentflow-cost-optimizer/icon.png",
+  "cover_image": "/assets/agents/agentflow-cost-optimizer/cover.png",
+  "conversation_starters": [
+    "Review this infra for likely cloud waste.",
+    "Where are we probably overprovisioned?",
+    "Give me a safe cost optimization plan for this setup.",
+    "Create a FinOps-style checklist for a small platform team."
+  ],
+  "outputs": [
+    "cost optimization review",
+    "waste summary",
+    "rightsizing candidates",
+    "savings roadmap",
+    "environment cleanup checklist",
+    "risk-aware plan"
+  ],
+  "limitations": [
+    "Does not access billing data by itself",
+    "Does not guarantee savings outcomes",
+    "Best suited for structured cost review and prioritization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}

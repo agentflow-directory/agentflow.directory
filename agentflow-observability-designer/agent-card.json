@@ -1,0 +1,75 @@
+{
+  "name": "agentflow-observability-designer",
+  "slug": "agentflow-observability-designer",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "AIOps",
+  "subcategory": "Observability",
+  "summary": "Designs actionable monitoring, SLI/SLO, and low-noise alerting for services and systems.",
+  "description": "agentflow-observability-designer helps users design practical observability strategies around service health, user journeys, telemetry quality, and alert actionability. It is aimed at teams that want useful monitoring without alert fatigue.",
+  "audience": [
+    "SREs",
+    "DevOps engineers",
+    "platform engineers",
+    "engineering leads",
+    "startup operators"
+  ],
+  "tags": [
+    "observability",
+    "monitoring",
+    "slo",
+    "sli",
+    "alerting",
+    "aiops",
+    "sre",
+    "no-code",
+    "custom-gpt",
+    "open-source"
+  ],
+  "use_cases": [
+    "Design observability for a service",
+    "Draft SLI/SLO",
+    "Reduce alert fatigue",
+    "Plan dashboards and alerts",
+    "Identify telemetry gaps"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-observability-designer",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-observability-designer",
+  "icon": "/assets/agents/agentflow-observability-designer/icon.png",
+  "cover_image": "/assets/agents/agentflow-observability-designer/cover.png",
+  "conversation_starters": [
+    "Design observability for this API service.",
+    "Help me define practical SLI/SLO for our checkout flow.",
+    "What alerts should we actually page on?",
+    "Create a low-noise dashboard and alerting plan."
+  ],
+  "outputs": [
+    "observability plan",
+    "SLI/SLO draft",
+    "alerting strategy",
+    "dashboard outline",
+    "telemetry gaps",
+    "service health checklist"
+  ],
+  "limitations": [
+    "Does not inspect telemetry systems by itself",
+    "Does not replace detailed SRE implementation work",
+    "Best suited for design, structure, and prioritization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "agentflow-infra-auditor",
+  "slug": "agentflow-infra-auditor",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "DevOps",
+  "subcategory": "Infrastructure Review",
+  "summary": "Reviews infrastructure setups for resilience, scalability, and production-readiness risks.",
+  "description": "agentflow-infra-auditor helps users review infrastructure architecture, configuration patterns, and operational risks. It highlights critical dependencies, anti-patterns, resilience gaps, and remediation priorities in a practical no-code workflow.",
+  "audience": [
+    "DevOps engineers",
+    "platform teams",
+    "technical founders",
+    "cloud architects",
+    "engineering managers"
+  ],
+  "tags": [
+    "infrastructure",
+    "terraform",
+    "cloud",
+    "devops",
+    "platform-engineering",
+    "no-code",
+    "custom-gpt",
+    "open-source"
+  ],
+  "use_cases": [
+    "Audit a cloud architecture",
+    "Review Terraform at a high level",
+    "Identify production-readiness gaps",
+    "Create a remediation plan",
+    "Find infra anti-patterns early"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-infra-auditor",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-infra-auditor",
+  "icon": "/assets/agents/agentflow-infra-auditor/icon.png",
+  "cover_image": "/assets/agents/agentflow-infra-auditor/cover.png",
+  "conversation_starters": [
+    "Audit this cloud architecture for resilience risks.",
+    "Review this Terraform approach at a high level.",
+    "What could break in production in this infra setup?",
+    "Give me a prioritized infra hardening plan."
+  ],
+  "outputs": [
+    "infra review summary",
+    "risk register",
+    "production readiness checklist",
+    "remediation plan",
+    "scalability concerns",
+    "operational gaps"
+  ],
+  "limitations": [
+    "Does not access cloud accounts by itself",
+    "Does not replace a hands-on infrastructure audit",
+    "Best suited for structured high-level review and prioritization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}

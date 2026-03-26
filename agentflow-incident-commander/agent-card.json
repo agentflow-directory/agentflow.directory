@@ -1,0 +1,72 @@
+{
+  "name": "agentflow-incident-commander",
+  "slug": "agentflow-incident-commander",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "DevOps",
+  "subcategory": "Incident Response",
+  "summary": "Helps teams coordinate incidents with structured response plans, updates, and timelines.",
+  "description": "agentflow-incident-commander helps users run production or security incidents with less chaos. It structures impact, severity, response actions, owners, timelines, and stakeholder updates in a no-code workflow suitable for ChatGPT and AgentFlow.Directory.",
+  "audience": [
+    "SREs",
+    "DevOps engineers",
+    "platform teams",
+    "incident managers",
+    "startup operators"
+  ],
+  "tags": [
+    "incident-response",
+    "devops",
+    "secops",
+    "sre",
+    "no-code",
+    "custom-gpt",
+    "open-source"
+  ],
+  "use_cases": [
+    "Run a live production incident",
+    "Draft a structured status update",
+    "Create a timeline during an outage",
+    "Coordinate roles and checkpoints",
+    "Prepare handoff notes for postmortem"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-incident-commander",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-incident-commander",
+  "icon": "/assets/agents/agentflow-incident-commander/icon.png",
+  "cover_image": "/assets/agents/agentflow-incident-commander/cover.png",
+  "conversation_starters": [
+    "Help me run a SEV-1 incident for elevated 500s.",
+    "Turn this outage summary into an incident brief.",
+    "Draft a status update for leadership.",
+    "Create a response plan from this incident context."
+  ],
+  "outputs": [
+    "incident brief",
+    "severity assessment",
+    "response plan",
+    "status updates",
+    "timeline",
+    "handoff notes"
+  ],
+  "limitations": [
+    "Does not access logs or dashboards by itself",
+    "Does not replace on-call engineering judgment",
+    "Best suited for coordination, communication, and structure"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}

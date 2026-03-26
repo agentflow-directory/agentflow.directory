@@ -1,0 +1,73 @@
+{
+  "name": "agentflow-security-auditor",
+  "slug": "agentflow-security-auditor",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "SecOps",
+  "subcategory": "Security Review",
+  "summary": "Performs high-level security reviews with practical hardening guidance and prioritized risks.",
+  "description": "agentflow-security-auditor helps users review software, architecture, workflows, and repository context for common security weaknesses. It structures attack surface, likely risks, mitigations, and launch-readiness checks in a practical no-code workflow.",
+  "audience": [
+    "security engineers",
+    "DevOps teams",
+    "founders",
+    "technical leads",
+    "solo builders"
+  ],
+  "tags": [
+    "security",
+    "secops",
+    "owasp",
+    "appsec",
+    "hardening",
+    "no-code",
+    "custom-gpt",
+    "open-source"
+  ],
+  "use_cases": [
+    "Run a high-level security audit",
+    "Review architecture for common risks",
+    "Build a release hardening checklist",
+    "Prioritize security remediation",
+    "Assess secrets and auth risks"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-security-auditor",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-security-auditor",
+  "icon": "/assets/agents/agentflow-security-auditor/icon.png",
+  "cover_image": "/assets/agents/agentflow-security-auditor/cover.png",
+  "conversation_starters": [
+    "Audit this architecture for common security risks.",
+    "Review this repo context using an OWASP-style checklist.",
+    "Give me a prioritized security hardening plan.",
+    "What are the most likely security mistakes in this workflow?"
+  ],
+  "outputs": [
+    "security assessment",
+    "attack surface summary",
+    "hardening checklist",
+    "risk priorities",
+    "mitigation plan",
+    "follow-up validation questions"
+  ],
+  "limitations": [
+    "Does not perform penetration testing by itself",
+    "Does not provide exploit instructions",
+    "Best suited for structured defensive review and prioritization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}
