@@ -1,0 +1,33 @@
+name: OWASP High-Level Review
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  owasp_review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Collect lightweight review context
+        run: |
+          echo "Repository: $GITHUB_REPOSITORY" > review-context.txt
+          echo "PR / ref: $GITHUB_REF" >> review-context.txt
+          echo "" >> review-context.txt
+          echo "Changed files:" >> review-context.txt
+          git diff --name-only origin/${{ github.base_ref }}...HEAD >> review-context.txt || true
+          echo "" >> review-context.txt
+          echo "Top-level files:" >> review-context.txt
+          ls -la >> review-context.txt || true
+
+      - name: Next step
+        run: |
+          echo "Use prompts/ci-review-prompt.md together with review-context.txt"
+          echo "Then send both into your preferred review surface (ChatGPT, Codex, or internal workflow)."
+
+# Notes:
+# - This is intentionally lightweight and does not call any external API.
+# - Treat it as a starter example for passing CI context into a manual or semi-manual review flow.
+# - Expand carefully if you later choose to automate review delivery.

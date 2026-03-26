@@ -1,0 +1,76 @@
+{
+  "featured": true,
+  "name": "OWASP Cybersecurity Check Agent",
+  "slug": "owasp-cybersecurity-check-agent",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Security",
+  "subcategory": "Application Security Review",
+  "summary": "Reviews user-provided project context and delivers a high-level OWASP-aligned security check without requiring code changes.",
+  "description": "OWASP Cybersecurity Check Agent helps users perform a practical, high-level application security review using files, IDE context, repository context, or CI-provided artifacts. It is designed for no-code or low-code usage and produces structured findings, likely risks, missing controls, and remediation priorities aligned to OWASP-style categories.",
+  "audience": [
+    "founders",
+    "indie makers",
+    "developers",
+    "engineering managers",
+    "security-conscious small teams",
+    "no-code creators"
+  ],
+  "tags": [
+    "owasp",
+    "cybersecurity",
+    "security-review",
+    "appsec",
+    "custom-gpt",
+    "no-code",
+    "ci"
+  ],
+  "use_cases": [
+    "Review a repository at a high level for likely OWASP risks",
+    "Assess codebase snippets or architecture notes directly in chat",
+    "Check IDE context during implementation for obvious security gaps",
+    "Review pull request or build context in a CI workflow",
+    "Create a lightweight security checklist before release"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 15,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/owasp-cybersecurity-check-agent",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/owasp-cybersecurity-check-agent",
+  "icon": "/assets/agents/owasp-cybersecurity-check-agent/icon.png",
+  "cover_image": "/assets/agents/owasp-cybersecurity-check-agent/cover.png",
+  "conversation_starters": [
+    "Review this repository for high-level OWASP risks.",
+    "Check these files for likely authentication, authorization, and secret-management issues.",
+    "Use my IDE context to spot high-priority security gaps before I ship.",
+    "Generate an OWASP-style release readiness review from this project context."
+  ],
+  "outputs": [
+    "executive risk summary",
+    "OWASP-aligned findings list",
+    "severity and confidence ratings",
+    "evidence-based observations",
+    "missing controls checklist",
+    "prioritized remediation suggestions",
+    "limitations and assumptions"
+  ],
+  "limitations": [
+    "Does not replace a formal penetration test or manual code audit",
+    "Cannot verify runtime behavior unless the user provides evidence",
+    "May miss issues outside the supplied context",
+    "Should not be treated as legal, compliance, or certification advice"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-03-26"
+  }
+}
