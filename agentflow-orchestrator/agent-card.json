@@ -41,9 +41,9 @@
   "license": "MIT",
   "pricing": "free",
   "maintainer": "AgentFlow.Directory",
-  "repository_url": "https://github.com/agentflow-directory/agentflow-orchestrator",
-  "chatgpt_url": "",
-  "demo_url": "",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-orchestrator",
+  "chatgpt_url": "https://chatgpt.com/g/[YOUR_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-orchestrator",
   "icon": "./icon.png",
   "cover_image": "./cover.png",
   "conversation_starters": [
