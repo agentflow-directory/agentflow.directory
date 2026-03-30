@@ -42,7 +42,7 @@
   "license": "Apache-2.0",
   "pricing": "free",
   "maintainer": "AgentFlow.Directory",
-  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-infra-auditor",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/tree/main/agentflow-infra-auditor",
   "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
   "demo_url": "https://agentflow.directory/agents/agentflow-infra-auditor",
   "icon": "/assets/agents/agentflow-infra-auditor/icon.png",

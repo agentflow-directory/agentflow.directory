@@ -116,24 +116,6 @@ Useful knowledge file sections:
 
 ---
 
-## Repository structure
-
-```text
-agentflow-incident-commander/
-├── README.md
-├── LICENSE
-├── system-prompt.md
-└── agent-card.json
-```
-
----
-
-## Suggested license
-
-**Apache-2.0**
-
----
-
 ## Example prompts
 
 - “Help me run a SEV-1 incident for elevated 500s.”

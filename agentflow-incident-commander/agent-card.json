@@ -41,7 +41,7 @@
   "license": "Apache-2.0",
   "pricing": "free",
   "maintainer": "AgentFlow.Directory",
-  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-incident-commander",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/tree/main/agentflow-incident-commander",
   "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
   "demo_url": "https://agentflow.directory/agents/agentflow-incident-commander",
   "icon": "/assets/agents/agentflow-incident-commander/icon.png",

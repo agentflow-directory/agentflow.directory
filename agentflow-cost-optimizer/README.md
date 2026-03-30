@@ -104,18 +104,6 @@ Useful knowledge file sections:
 
 ---
 
-## Repository structure
-
-```text
-agentflow-cost-optimizer/
-├── README.md
-├── LICENSE
-├── system-prompt.md
-└── agent-card.json
-```
-
----
-
 ## Example prompts
 
 - “Review this infra for likely cloud waste.”

@@ -41,7 +41,7 @@
   "license": "Apache-2.0",
   "pricing": "free",
   "maintainer": "AgentFlow.Directory",
-  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-idea-clarifier",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/tree/main/agentflow-idea-clarifier",
   "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
   "demo_url": "https://agentflow.directory/agents/agentflow-idea-clarifier",
   "icon": "/assets/agents/agentflow-idea-clarifier/icon.png",
