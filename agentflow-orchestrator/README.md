@@ -237,9 +237,3 @@ Response:
   "output": "..."
 }
 ```
-
----
-
-## License
-
-Recommended: MIT for the starter pack content.
