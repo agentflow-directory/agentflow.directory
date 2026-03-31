@@ -44,7 +44,7 @@
   "pricing": "free",
   "maintainer": "AgentFlow.Directory",
   "repository_url": "https://github.com/agentflow-directory/agentflow.directory/tree/main/agentflow-owasp-cybersecurity-check-agent",
-  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "chatgpt_url": "https://chatgpt.com/g/g-69cc13f33ed881918531b627d477484d-owasp-cybersecurity-check-agent",
   "demo_url": "https://agentflow.directory/agents/owasp-cybersecurity-check-agent",
   "icon": "/assets/agents/owasp-cybersecurity-check-agent/icon.png",
   "cover_image": "/assets/agents/owasp-cybersecurity-check-agent/cover.png",

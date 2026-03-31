@@ -42,7 +42,7 @@
   "pricing": "free",
   "maintainer": "AgentFlow.Directory",
   "repository_url": "https://github.com/agentflow-directory/agentflow.directory/tree/main/agentflow-local-crisis-survival-planner",
-  "chatgpt_url": "https://chatgpt.com/g/[YOUR_GPT_LINK]",
+  "chatgpt_url": "https://chatgpt.com/g/g-69cc12d20ba48191972a172e0b6ac4c2-local-crisis-survival-planner",
   "demo_url": "https://agentflow.directory/agents/local-crisis-survival-planner",
   "conversation_starters": [
     "Create a 3-day blackout survival plan for my household",
