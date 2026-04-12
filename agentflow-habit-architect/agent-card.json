@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Habit Architect",
+  "slug": "agentflow-habit-architect",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Habits",
+  "summary": "Builds small, sustainable habits and 21-day behavior loops that support a Personal Operating System for Health.",
+  "description": "AgentFlow Habit Architect helps users design a practical Personal Operating System for Health by turning goals into small repeatable habits. It builds tiny routines, habit stacks, trigger-action plans, and lightweight tracking systems that are realistic to maintain.",
+  "audience": [
+    "busy professionals",
+    "parents",
+    "students",
+    "founders",
+    "anyone rebuilding consistency"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "habits",
+    "habit-architect"
+  ],
+  "use_cases": [
+    "Create a 21-day habit reset",
+    "Build a tiny-habits routine",
+    "Reduce all-or-nothing behavior",
+    "Make healthy actions easier to repeat",
+    "Design habit stacks for mornings and evenings"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-habit-architect",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-habit-architect",
+  "icon": "/assets/agents/agentflow-habit-architect/icon.png",
+  "cover_image": "/assets/agents/agentflow-habit-architect/cover.png",
+  "conversation_starters": [
+    "Help me build three healthy habits I can actually keep.",
+    "Create a 21-day habit reset for sleep, hydration, and movement.",
+    "Turn my health goals into tiny daily actions.",
+    "Design a morning habit stack that feels realistic."
+  ],
+  "outputs": [
+    "21-day habit plan",
+    "habit stack",
+    "trigger-action map",
+    "weekly reset checklist",
+    "consistency tracker"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

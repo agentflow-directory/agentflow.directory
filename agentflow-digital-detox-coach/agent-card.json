@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Digital Detox Coach",
+  "slug": "agentflow-digital-detox-coach",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Digital Wellness",
+  "summary": "Reduces screen overuse and distraction as part of a Personal Operating System for Health.",
+  "description": "AgentFlow Digital Detox Coach helps users regain focus and calm by reducing compulsive screen use, endless scrolling, and fragmented attention. It creates realistic boundaries, replacement rituals, low-dopamine routines, and phone-friction systems inside a Personal Operating System for Health.",
+  "audience": [
+    "remote workers",
+    "students",
+    "parents",
+    "creatives",
+    "people who feel glued to their phone"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "digital-wellness",
+    "digital-detox-coach"
+  ],
+  "use_cases": [
+    "Reduce phone overuse",
+    "Build a low-scroll evening routine",
+    "Create boundaries for work and social media",
+    "Recover focus from constant interruptions",
+    "Run a realistic digital detox"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-digital-detox-coach",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-digital-detox-coach",
+  "icon": "/assets/agents/agentflow-digital-detox-coach/icon.png",
+  "cover_image": "/assets/agents/agentflow-digital-detox-coach/cover.png",
+  "conversation_starters": [
+    "Help me stop checking my phone constantly.",
+    "Create a realistic 7-day digital detox plan.",
+    "Build me an evening routine with less scrolling.",
+    "Reduce my screen time without making it extreme."
+  ],
+  "outputs": [
+    "digital detox plan",
+    "screen boundary checklist",
+    "replacement ritual list",
+    "focus protection routine",
+    "low-scroll evening plan"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

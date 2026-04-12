@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Energy Manager",
+  "slug": "agentflow-energy-manager",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Energy",
+  "summary": "Designs daily rhythms, work-rest balance, and energy-aware routines inside a Personal Operating System for Health.",
+  "description": "AgentFlow Energy Manager helps users understand and shape their physical and mental energy across the day. It builds realistic work-rest rhythms, recovery windows, focus blocks, movement breaks, and supportive lifestyle routines within a Personal Operating System for Health.",
+  "audience": [
+    "knowledge workers",
+    "founders",
+    "students",
+    "parents",
+    "people with afternoon crashes"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "energy",
+    "energy-manager"
+  ],
+  "use_cases": [
+    "Plan a day around energy peaks and dips",
+    "Reduce afternoon crashes",
+    "Build recovery windows into the schedule",
+    "Create a sustainable focus routine",
+    "Balance output with rest"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-energy-manager",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-energy-manager",
+  "icon": "/assets/agents/agentflow-energy-manager/icon.png",
+  "cover_image": "/assets/agents/agentflow-energy-manager/cover.png",
+  "conversation_starters": [
+    "Help me plan my day around my energy levels.",
+    "I crash every afternoon. Build a better routine.",
+    "Create a sustainable work-rest rhythm for me.",
+    "Map my day into focus blocks and recovery blocks."
+  ],
+  "outputs": [
+    "energy-aware daily schedule",
+    "focus block plan",
+    "recovery break routine",
+    "crash prevention checklist",
+    "weekly rhythm map"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

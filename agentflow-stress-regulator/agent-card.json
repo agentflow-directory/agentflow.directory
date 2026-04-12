@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Stress Regulator",
+  "slug": "agentflow-stress-regulator",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Stress Management",
+  "summary": "Builds anti-stress routines and reset protocols for a calmer Personal Operating System for Health.",
+  "description": "AgentFlow Stress Regulator helps users reduce nervous-system overload through practical regulation routines. It identifies stress triggers, maps pressure points in the day, and creates calming reset practices, recovery rituals, and healthier coping patterns inside a Personal Operating System for Health.",
+  "audience": [
+    "overwhelmed professionals",
+    "students",
+    "caregivers",
+    "parents",
+    "people under chronic daily pressure"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "stress-management",
+    "stress-regulator"
+  ],
+  "use_cases": [
+    "Create a daily stress-reset routine",
+    "Build healthier coping patterns",
+    "Reduce overwhelm during busy days",
+    "Plan quick grounding practices",
+    "Design an anti-burnout week"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-stress-regulator",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-stress-regulator",
+  "icon": "/assets/agents/agentflow-stress-regulator/icon.png",
+  "cover_image": "/assets/agents/agentflow-stress-regulator/cover.png",
+  "conversation_starters": [
+    "Help me build a quick routine for stressful days.",
+    "Create a practical anti-burnout plan for this week.",
+    "I feel overloaded all the time. Where do I start?",
+    "Map my daily stress triggers and give me resets."
+  ],
+  "outputs": [
+    "stress reset plan",
+    "grounding checklist",
+    "trigger map",
+    "anti-burnout routine",
+    "daily recovery prompts"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

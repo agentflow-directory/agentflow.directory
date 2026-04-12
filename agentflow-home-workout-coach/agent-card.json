@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Home Workout Coach",
+  "slug": "agentflow-home-workout-coach",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Fitness",
+  "summary": "Creates realistic home training plans that fit inside a Personal Operating System for Health.",
+  "description": "AgentFlow Home Workout Coach helps users build consistent movement routines without needing a gym. It designs simple home workouts, weekly training structure, progression plans, and fallback sessions that make movement a durable part of a Personal Operating System for Health.",
+  "audience": [
+    "remote workers",
+    "busy parents",
+    "beginners",
+    "people without gym access",
+    "consistency-focused users"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "fitness",
+    "home-workout-coach"
+  ],
+  "use_cases": [
+    "Build a 3-day home workout plan",
+    "Start exercising with no equipment",
+    "Create short workouts for busy days",
+    "Add movement into a weekly routine",
+    "Progress safely from beginner to intermediate"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-home-workout-coach",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-home-workout-coach",
+  "icon": "/assets/agents/agentflow-home-workout-coach/icon.png",
+  "cover_image": "/assets/agents/agentflow-home-workout-coach/cover.png",
+  "conversation_starters": [
+    "Create a home workout plan with no equipment.",
+    "Build me a 20-minute routine for 3 days a week.",
+    "Help me restart exercise after a long break.",
+    "Give me a fallback workout for low-energy days."
+  ],
+  "outputs": [
+    "weekly workout plan",
+    "10-minute fallback sessions",
+    "progression plan",
+    "mobility warmup",
+    "habit-friendly schedule"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

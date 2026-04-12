@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Sleep Optimizer",
+  "slug": "agentflow-sleep-optimizer",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Sleep",
+  "summary": "Improves sleep routines, bedtime structure, and recovery habits within a Personal Operating System for Health.",
+  "description": "AgentFlow Sleep Optimizer helps users improve sleep consistency and recovery by designing better bedtime routines, wake-up structure, light and caffeine boundaries, and calming pre-sleep rituals. It treats sleep as a core pillar of a Personal Operating System for Health.",
+  "audience": [
+    "busy professionals",
+    "parents",
+    "students",
+    "shifted-schedule users",
+    "people with poor sleep consistency"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "sleep",
+    "sleep-optimizer"
+  ],
+  "use_cases": [
+    "Fix an inconsistent sleep schedule",
+    "Create a calming evening routine",
+    "Reduce revenge bedtime procrastination",
+    "Improve morning recovery",
+    "Build better sleep hygiene habits"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-sleep-optimizer",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-sleep-optimizer",
+  "icon": "/assets/agents/agentflow-sleep-optimizer/icon.png",
+  "cover_image": "/assets/agents/agentflow-sleep-optimizer/cover.png",
+  "conversation_starters": [
+    "Help me build a better sleep routine for workdays.",
+    "Create a 14-day sleep reset I can follow.",
+    "I go to bed too late. Help me fix that realistically.",
+    "Design an evening routine that helps me wind down."
+  ],
+  "outputs": [
+    "bedtime routine",
+    "wake-up routine",
+    "sleep reset plan",
+    "evening checklist",
+    "weekly sleep recovery strategy"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

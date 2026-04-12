@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Longevity Planner",
+  "slug": "agentflow-longevity-planner",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Long-Term Health",
+  "summary": "Translates long-term health goals into sustainable routines inside a Personal Operating System for Health.",
+  "description": "AgentFlow Longevity Planner helps users think long-term about health without becoming extreme or obsessive. It organizes prevention-oriented habits, recovery priorities, check-in rhythms, and lifestyle foundations into a sustainable Personal Operating System for Health.",
+  "audience": [
+    "health-conscious adults",
+    "professionals planning for longevity",
+    "parents",
+    "midlife users",
+    "consistency-focused users"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "long-term-health",
+    "longevity-planner"
+  ],
+  "use_cases": [
+    "Turn long-term health goals into routines",
+    "Build a prevention-oriented lifestyle plan",
+    "Create monthly and quarterly health check-ins",
+    "Balance ambition with sustainability",
+    "Design a long-term health maintenance system"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-longevity-planner",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-longevity-planner",
+  "icon": "/assets/agents/agentflow-longevity-planner/icon.png",
+  "cover_image": "/assets/agents/agentflow-longevity-planner/cover.png",
+  "conversation_starters": [
+    "Help me build a long-term health plan I can sustain.",
+    "Turn longevity goals into weekly actions.",
+    "Create a prevention-focused lifestyle routine.",
+    "Build a monthly check-in system for my health habits."
+  ],
+  "outputs": [
+    "long-term health roadmap",
+    "monthly check-in structure",
+    "lifestyle maintenance plan",
+    "health priority map",
+    "sustainable routine blueprint"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Posture Mobility Coach",
+  "slug": "agentflow-posture-mobility-coach",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Mobility",
+  "summary": "Creates short posture and mobility routines for a body-friendly Personal Operating System for Health.",
+  "description": "AgentFlow Posture Mobility Coach helps users reduce stiffness, improve movement quality, and build better physical maintenance habits. It creates office-friendly mobility routines, posture breaks, gentle movement flows, and consistency systems that support a Personal Operating System for Health.",
+  "audience": [
+    "desk workers",
+    "remote workers",
+    "students",
+    "people with stiffness",
+    "beginners needing gentle movement"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "mobility",
+    "posture-mobility-coach"
+  ],
+  "use_cases": [
+    "Create a desk-break mobility routine",
+    "Reduce neck and back stiffness",
+    "Build a daily posture reset",
+    "Add movement snacks into the day",
+    "Improve body maintenance without a gym"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-posture-mobility-coach",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-posture-mobility-coach",
+  "icon": "/assets/agents/agentflow-posture-mobility-coach/icon.png",
+  "cover_image": "/assets/agents/agentflow-posture-mobility-coach/cover.png",
+  "conversation_starters": [
+    "Give me a daily routine for neck and upper-back stiffness.",
+    "Create a 5-minute posture reset for desk work.",
+    "Build movement breaks into my workday.",
+    "I sit too much. Give me a realistic mobility plan."
+  ],
+  "outputs": [
+    "5-minute mobility routine",
+    "desk reset checklist",
+    "movement break schedule",
+    "posture habit stack",
+    "weekly mobility plan"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Nutrition Planner",
+  "slug": "agentflow-nutrition-planner",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Nutrition",
+  "summary": "Plans simple meals, grocery lists, and nutrition routines that fit into a Personal Operating System for Health.",
+  "description": "AgentFlow Nutrition Planner helps users create sustainable eating routines inside a Personal Operating System for Health. It generates practical menus, shopping lists, meal prep structures, and low-friction nutrition plans aligned with real life rather than diet chaos.",
+  "audience": [
+    "busy professionals",
+    "families",
+    "students",
+    "fitness beginners",
+    "people who want simple meal structure"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "nutrition",
+    "nutrition-planner"
+  ],
+  "use_cases": [
+    "Plan balanced weekly meals",
+    "Create a healthy grocery list",
+    "Reduce food decision fatigue",
+    "Build protein-forward meal templates",
+    "Organize meal prep for a busy week"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-nutrition-planner",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-nutrition-planner",
+  "icon": "/assets/agents/agentflow-nutrition-planner/icon.png",
+  "cover_image": "/assets/agents/agentflow-nutrition-planner/cover.png",
+  "conversation_starters": [
+    "Plan a simple healthy menu for the next 7 days.",
+    "Build me a realistic high-protein eating routine.",
+    "Create a grocery list for balanced family meals.",
+    "Help me stop eating chaotically during busy workdays."
+  ],
+  "outputs": [
+    "weekly meal plan",
+    "shopping list",
+    "meal prep guide",
+    "simple nutrition routine",
+    "fallback meal list"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}

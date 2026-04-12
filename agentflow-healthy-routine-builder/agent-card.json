@@ -1,0 +1,75 @@
+{
+  "name": "AgentFlow Healthy Routine Builder",
+  "slug": "agentflow-healthy-routine-builder",
+  "version": "1.0.0",
+  "status": "draft",
+  "category": "Healthy Lifestyle",
+  "subcategory": "Routines",
+  "summary": "Builds realistic morning, daytime, and evening systems as a Personal Operating System for Health.",
+  "description": "AgentFlow Healthy Routine Builder helps users structure their days around health-supportive routines instead of random effort. It designs morning, workday, and evening flows that combine sleep, food, movement, recovery, and focus into a Personal Operating System for Health.",
+  "audience": [
+    "busy professionals",
+    "parents",
+    "students",
+    "founders",
+    "people who need structure"
+  ],
+  "tags": [
+    "personal-operating-system-for-health",
+    "healthy-lifestyle",
+    "health-system",
+    "habit-design",
+    "routine-design",
+    "wellbeing",
+    "no-code",
+    "custom-gpt",
+    "open-source",
+    "routines",
+    "healthy-routine-builder"
+  ],
+  "use_cases": [
+    "Create a healthy morning routine",
+    "Build a full-day health-supportive routine",
+    "Turn scattered habits into one system",
+    "Stabilize weekdays",
+    "Make health easier to maintain"
+  ],
+  "execution_type": "Custom GPT",
+  "coding_level": "no-code",
+  "source_availability": "open",
+  "requires_account": true,
+  "requires_chatgpt": true,
+  "requires_api": false,
+  "requires_backend": false,
+  "setup_time_minutes": 10,
+  "license": "Apache-2.0",
+  "pricing": "free",
+  "maintainer": "AgentFlow.Directory",
+  "repository_url": "https://github.com/agentflow-directory/agentflow.directory/agentflow-healthy-routine-builder",
+  "chatgpt_url": "https://chatgpt.com/g/[PUBLIC_GPT_LINK]",
+  "demo_url": "https://agentflow.directory/agents/agentflow-healthy-routine-builder",
+  "icon": "/assets/agents/agentflow-healthy-routine-builder/icon.png",
+  "cover_image": "/assets/agents/agentflow-healthy-routine-builder/cover.png",
+  "conversation_starters": [
+    "Build me a healthy routine for weekdays.",
+    "Create a realistic morning and evening system.",
+    "Turn my scattered habits into one daily structure.",
+    "Design a full-day Personal Operating System for Health."
+  ],
+  "outputs": [
+    "morning routine",
+    "evening routine",
+    "full-day routine map",
+    "weekday structure",
+    "maintenance checklist"
+  ],
+  "limitations": [
+    "Not a medical diagnostic or emergency tool",
+    "Does not replace licensed healthcare advice",
+    "Best suited for planning, routine design, and lifestyle organization"
+  ],
+  "verification": {
+    "is_verified": false,
+    "last_verified_at": "2026-04-12"
+  }
+}
