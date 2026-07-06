@@ -2,6 +2,10 @@
 
 https://agentflow.directory
 
+<p align="center">
+  <img src="./logo.png" alt="Agentflow Directory" width="180" />
+</p>
+
 ## Discover AI agents that actually do the work
 
 A curated, open directory of AI agents and workflows.
