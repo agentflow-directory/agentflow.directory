@@ -21,6 +21,9 @@ Find, use, and promote agents — no coding required.
 
 Slack: https://join.slack.com/t/agentflowdirectory/shared_invite/zt-3tw63jwvp-2UPhgqu5ial66YVl_cm0dQ
 
-Mail: glory.to.mankind@agentflow.directory
+Mail:
 
-LinkedIn: https://www.linkedin.com/in/agentflow-directory-5734a33b9/
+* Joe - glory.to.mankind at agentflow.directory
+* VV - brat.wolv at gmail.com
+
+Have fun!
